@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
 	<types>
-		<members>convertItemToList_1</members>
+		
+		<members>reteriveAccount_1</members>
 		<name>OmniDataTransform</name>
+	</types>
+	<types>
+		<members>Get_accountDetails_Procedure_1</members>
+		<name>OmniIntegrationProcedure</name>
+	</types>
+	<types>
+		<members>TheFirstInstalledOmniPackage</members>
+		<name>OmniInteractionConfig</name>
+	</types>
+	<types>
+		<members>AccountCard_Harianee_1</members>
+		<name>OmniUiCard</name>
 	</types>
 	<version>55.0</version>
 </Package>
